@@ -1,3 +1,4 @@
+![Header](./header-image.png)
 <h1 align="center">Hello Nice To meet you😇 I'm Mindplayer</h1>
 <h3 align="center">A web developer and software engineer</h3>
 
